@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 link: https://landforum-new-bk5x.vercel.app/
+requirements:https://www.figma.com/file/mXI1wS82Js5lbkYaiaV7VG/Untitled?type=whiteboard&node-id=0%3A1&t=tqaRNHArJ00USpSS-1
+
